@@ -1,8 +1,8 @@
 Hi There! ✌️
 
-Welcome to my Github profile! I'd like to invite you to check out my repositories, especially 'gameStore-ts' and 'sportClubInterncional', these ones are my personal projects developed in React and TypeScript.
+Welcome to my Github profile! I'd like to invite you to check out my repositories, especially 'gameStore-ts' and 'sportClubInternacional', these ones are my personal projects developed in React and TypeScript.
 
-💼 Open to work and I'm looking for my first job as a Front-End Developer
+💼 Open to work and I'm looking for my first job as a Web Developer.
 
 📩 You can reach me on my e-mail pedro.veber@outlook.com or WhatsApp +55 54 999859934
 
