@@ -1,6 +1,6 @@
 # Pedro Alberto Veber Berna
 
-Web Developer @MilleniumSoftware
+Web Developer @B2BReservas
 
 Passionate about programming and web & mobile development.</br>
 You can reach me in the following social media:</br>
